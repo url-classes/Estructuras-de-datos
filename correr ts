@@ -1,0 +1,7 @@
+npm init -y
+npm install typescript -D
+npm install ts-node -D
+tsc --init
+npm install -g ts-node
+"start": "ts-node main.ts",
+npm install typescript --save-dev
